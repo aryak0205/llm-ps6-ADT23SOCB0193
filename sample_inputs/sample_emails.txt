@@ -1,0 +1,58 @@
+Sample emails for testing the Email Reply Assistant (PS6).
+Each sample starts with a line "### SAMPLE n: Title". The app reads this file
+for its "Try a sample email" menu. Copy any email body into the app to test it.
+
+### SAMPLE 1: Assignment submission reminder
+Dear Students,
+
+This is a reminder that the Machine Learning Assignment 3 must be submitted on the college portal by Friday, 28 November, 5:00 PM. Late submissions will lose 2 marks per day. Please make sure your report includes the source code link.
+
+If you have any questions, contact me during office hours.
+
+Regards,
+Prof. Meera Nair
+Department of Computer Science
+
+### SAMPLE 2: Job interview invitation
+Dear Candidate,
+
+Thank you for applying for the Junior Software Developer position at BrightPath Technologies. We are pleased to invite you to a technical interview on Tuesday, 2 December at 11:00 AM via Google Meet.
+
+Please confirm your availability by replying to this email by 26 November. Kindly keep a copy of your resume and a valid photo ID ready.
+
+Best regards,
+Ananya Rao
+HR Executive, BrightPath Technologies
+
+### SAMPLE 3: Request for a project report
+Hi,
+
+I hope you are doing well. Could you please send me the final project report for the Library Management System by Monday? I need to review it before the department presentation on Wednesday.
+
+Also, let me know if any section is still pending.
+
+Thanks,
+Rahul Verma
+Project Guide
+
+### SAMPLE 4: Meeting follow-up
+Hello team,
+
+Thank you all for attending today's project meeting. As discussed, the UI design must be completed by 30 November, and the database module will be reviewed next week. Please share your progress updates in the group by Thursday evening.
+
+Let me know if I missed anything from the discussion.
+
+Best,
+Sneha Kulkarni
+Team Lead
+
+### SAMPLE 5: Job application rejection
+Dear Applicant,
+
+Thank you for your interest in the Data Analyst Intern role at Northwind Analytics and for taking the time to interview with us. After careful consideration, we have decided to move forward with other candidates whose experience more closely matches our current needs.
+
+We appreciate your effort and encourage you to apply for future openings.
+
+Sincerely,
+Karan Mehta
+Talent Acquisition Team, Northwind Analytics
